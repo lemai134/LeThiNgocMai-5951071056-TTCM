@@ -185,3 +185,30 @@ C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\
 C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
 C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
 C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\bin\Debug\RestaurantManager.exe
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\bin\Debug\RestaurantManager.pdb
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.exe
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.pdb
